@@ -6,3 +6,6 @@ spring:
     url: jdbc:postgresql://localhost:5432/test-service-db
     username: postgres
     password: postgres
+
+service:
+  name: webservice
